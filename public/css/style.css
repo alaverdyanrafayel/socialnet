@@ -1,0 +1,48 @@
+.content_login{
+    margin-top:80px;
+    width:500px;
+}
+.content_register{
+    margin-top:40px;
+    width:500px;
+}
+.account{
+    margin:70px auto;
+    width:720px;
+    height:300px;
+}
+.img_account{
+    float:left;
+    width:300px;
+    height:300px;
+}
+.desc_account{
+    margin-top:50px;
+    float:right;
+    width:400px;
+    height:300px;
+}
+.glyphicon{
+    padding:3px;
+}
+.search_content{
+    width:450px;
+    margin-left:800px;
+}
+.singleUser{
+    width:800px;
+    margin:0 auto;
+}
+.message_field{
+    width:450px;
+    border:2px solid red;
+    margin:0 auto;
+}
+.message_field h1{
+color:green;
+}
+.envelope{
+    margin-left:350px;
+    color:blue;
+    font-size: 30px;
+}
